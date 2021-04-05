@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicofarr1981
+- 👀 I’m interested in big data, data science, python, scala, ai, cloud 
+- 🌱 I’m currently learning python & scala
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me https://www.linkedin.com/in/nicofarr/
